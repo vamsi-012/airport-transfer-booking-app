@@ -1,0 +1,84 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "name": "Dzire",
+      "type": "Sedan",
+      "url": "https://performancedrive.com.au/wp-content/uploads/2017/04/2017-Maruti-Swift-DZire.jpg",
+      "price": "Rs 600/hr",
+      "seating": "4"
+    },
+    {
+      "id": 2,
+      "name": "Vitara",
+      "type": "SUV",
+      "url": "https://booking.caren.is/Images/11/vitara-01.png",
+      "price": "Rs 600/hr",
+      "seating": "4"
+    },
+    {
+      "id": 3,
+      "name": "Toyota Minivan",
+      "type": "Minivan",
+      "url": "https://di-uploads-pod6.dealerinspire.com/findlaytoyota/uploads/2016/09/2017-Toyota-Sienna-on-White.png",
+      "price": "Rs 600/hr",
+      "seating": "4"
+    },
+    {
+      "id": 4,
+      "name": "Honda Civic",
+      "type": "Sedan",
+      "url": "https://2023-honda.com/wp-content/uploads/2021/06/new-honda-civic-2023-release-date.png",
+      "price": "Rs 600/hr",
+      "seating": "4"
+    },
+    {
+      "id": 5,
+      "name": "Ford Explorer",
+      "type": "SUV",
+      "url": "https://img.s-msn.com/tenant/amp/entityid/BBvmk32.img",
+      "price": "Rs 600/hr",
+      "seating": "4"
+    },
+    {
+      "id": 6,
+      "name": "Chrysler Pacifica",
+      "type": "Minivan",
+      "url": "https://medias.fcacanada.ca/jellies/renditions/2020/800x510/CC20_RUCR53_2DW_PW7_APA_XXX_XXX_XXX.16995f3aa10a7141b554a5c0a0f149a6.png",
+      "price": "Rs 600/hr",
+      "seating": "4"
+    },
+    {
+      "id": 7,
+      "name": "Mercedes-Benz C-Class",
+      "type": "Sedan",
+      "url": "https://65e81151f52e248c552b-fe74cd567ea2f1228f846834bd67571e.ssl.cf1.rackcdn.com/ldm-images/2018-Mercedes-Benz-C-Class-polar-white.png",
+      "price": "Rs 600/hr",
+      "seating": "4"
+    },
+    {
+      "id": 8,
+      "name": "Audi Q5",
+      "type": "SUV",
+      "url": "https://img1.sm360.ca/ir/w710h534/images/inventory/glenmore-audi/audi/q5/2019/5873537/5873537_07773_2019-audi-q5_001.PNG",
+      "price": "Rs 600/hr",
+      "seating": "4"
+    },
+    {
+      "id": 9,
+      "name": "Sedona",
+      "type": "Minivan",
+      "url": "https://file.kelleybluebookimages.com/kbb/base/evox/CP/10507/2016-Kia-Sedona-front_10507_032_2400x1800_SWP.png?interpolation=high-quality&downsize=825:*",
+      "price": "Rs 600/hr",
+      "seating": "4"
+    },
+    {
+      "id": 10,
+      "name": "BMW 3 Series",
+      "type": "Sedan",
+      "url": "https://s1.1zoom.me/big0/862/BMW_3-Series_F30_Blue_White_background_Sedan_539036_1280x720.jpg",
+      "price": "Rs 600/hr",
+      "seating": "4"
+    }
+  ]
+}

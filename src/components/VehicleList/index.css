@@ -1,0 +1,50 @@
+/* VehicleList.css */
+
+.vehicle-list-container {
+  margin-top: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.vehicle-list-heading {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.cards-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, min-max(200px, 1fr));
+  gap: 20px;
+}
+
+.card {
+  /* Add padding to create space between the image and card borders */
+  padding: 20px;
+  /* Add a fixed height for the card to ensure consistent card heights */
+  height: 300px;
+  /* Set the card to have a flex layout */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.vehicle-image {
+  /* Set a maximum height for the car image */
+  max-height: 200px; /* Adjust this value as needed */
+  /* Add some padding to the top of the image to create space */
+  padding-top: 10px;
+  /* Center the image horizontally within the card */
+  margin: 0 auto;
+}
+
+.vehicle-info {
+  margin-top: 10px;
+}
+
+.description {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
