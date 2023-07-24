@@ -17,11 +17,8 @@
 }
 
 .card {
-  /* Add padding to create space between the image and card borders */
   padding: 20px;
-  /* Add a fixed height for the card to ensure consistent card heights */
   height: 300px;
-  /* Set the card to have a flex layout */
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -31,11 +28,8 @@
 }
 
 .vehicle-image {
-  /* Set a maximum height for the car image */
-  max-height: 200px; /* Adjust this value as needed */
-  /* Add some padding to the top of the image to create space */
+  max-height: 200px;
   padding-top: 10px;
-  /* Center the image horizontally within the card */
   margin: 0 auto;
 }
 

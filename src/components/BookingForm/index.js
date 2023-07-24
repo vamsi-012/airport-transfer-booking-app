@@ -18,11 +18,10 @@ const BookingForm = () => {
       setIsLoading(true);
 
       try {
-        const response = await axios.get("http://localhost:3001/vehicles");
+        const response = await axios.get("http://localhost:3002/vehicles");
         setVehicles(response.data);
       } catch (error) {
         console.error("Error fetching data:", error);
-        // Handle error here (e.g., show an error message to the user)
       } finally {
         setIsLoading(false);
       }

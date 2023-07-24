@@ -1,5 +1,5 @@
 import React from "react";
-import "./index.css"; // Import the VehicleList.css file
+import "./index.css";
 
 const VehicleList = ({ vehicles }) => {
   return (
@@ -9,7 +9,7 @@ const VehicleList = ({ vehicles }) => {
         {vehicles.map((vehicle) => (
           <div key={vehicle.id} className="card">
             <img
-              src={vehicle.url} // Assuming image names are "car1.jpg", "car2.jpg", etc.
+              src={vehicle.url}
               alt={vehicle.name}
               className="vehicle-image"
             />
